@@ -27,9 +27,9 @@ theme_settings :
   title : Deep Weird
   favicon : assets/favicon.ico
   
-icons :
-    email:  notrueindian@outlook.com
-    twiter: notrueindian
+#icons :
+#    email:  notrueindian@outlook.com
+#    twiter: notrueindian
 
 # Profile Settings
   profile :
