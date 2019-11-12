@@ -27,8 +27,12 @@ permalink: /:categories/:year/:month/:day/:title
 theme_settings :
   title : Deep Weird
   favicon : assets/favicon.ico
+  
+icons :
+    email:  notrueindian@outlook.com
+    twiter: notrueindian
 
-  # Profile Settings
+# Profile Settings
   profile :
     image : assets/img/smile.png
     username : Nayeong Kim
