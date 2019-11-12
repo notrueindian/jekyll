@@ -30,6 +30,15 @@ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
+  
+gems: [jekyll-paginate]
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
+bootstrap:
+  assets: true
 
 # Pagination
 paginate: 5
