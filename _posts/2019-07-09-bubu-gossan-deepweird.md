@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The gossan and its bubu-based killing technique 
-subtitle : 
-tags: [deepfolk
+subtitle :
+tags: [deepfolk]
 author: notrueindian
 comments : false
 ---
