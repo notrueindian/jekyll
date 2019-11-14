@@ -35,7 +35,7 @@ theme_settings :
   profile :
     image : assets/img/octopus.png
     username : Deep Weird
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : notrueindian's blog on rpgs, monsters and genre weirdness
         
 # Pagination
 paginate: 5
