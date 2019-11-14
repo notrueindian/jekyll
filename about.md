@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nicepage
 title: About
 permalink: /about/
 ---
