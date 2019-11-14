@@ -6,7 +6,7 @@ tags: [deepfolk]
 author: notrueindian
 comments : false
 ---
-(This guest post brought to you by the amazing [VM](https://twitter.com/1amnerd)!)
+(This guest post brought to you by [VM](https://twitter.com/1amnerd)!)
 
 Varenthes stuck his hand out in front of his son, going suddenly still. The young man followed suit, confused. He gestured quizzically at his father, his spear at the ready. Varenthes simply stared ahead into the blue-white water, his eyes wide open. Then he motioned to his son to swim behind a rocky outcrop nearby, as if to hide from a foe ahead. Once there, Varenthes asked his son to peek ahead, into the near distance, slowly and carefully. With his free hand clinging to a foothold, the young man balanced himself on the spear and leaned out slightly. At first, he could see nothing – just the water and some flotsam caught in the stray shallow currents. But when he squinted some more, they came into focus: little black globules of some slick substance suspended a dozen or so feet under the surface, in a small valley in the reef. He’d never seen them before, and looked back at his father. Varenthes himself was frozen still; he wasn’t afraid, but he was also careful not to give himself away. He knew what was coming.
 
