@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The long mournful watch of the stargazers
-subtitle : subtitle
+subtitle :
 tags: [deepfolk]
 author: notrueindian
 comments : false
 ---
-`We who spend our lives navigating the scavengeance can never understand the Stargazers. For us, up and down is everything. For them, there is only up.` - Silikane, Deep Sage
+
 >We who spend our lives navigating the scavengeance can never understand the Stargazers. For us, up and down is everything. For them, there is only up. - *Silikane, Deep Sage*
 
 Some say the Stargazers come from below the seafloor. They are born in the depths of rock and iron and over the ages have slowly burrowed to the surface. And with time, they will leave the surface, swim through the water and head to the stars. Others say that this tale has it the wrong way around. The Stargazers fell from the heavens, sunk through the oceans and are now embedded deep in the softrock. Their eyes, cast ever upward towards the starlight, showcasing their yearning for return.
