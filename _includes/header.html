@@ -7,28 +7,28 @@
       {% when 'tags'%}
       <!-- tags -->
       <a href="{{ site.url }}">
-        <li class="btn-nav">Blog</li>
+        <li class="btn-nav">Home</li>
       </a>
-      <li class="current">Tags</li>
+      <li class="current">Blog Index</li>
       <!-- <a href="{{ site.url }}/portfolio">
         <li class="btn-nav">Portfolio</li>
       </a> -->
       <!-- portfolio -->
       {% when 'portfolio'%}
       <a href="{{ site.url }}">
-        <li class="btn-nav">Blog</li>
+        <li class="btn-nav">Home</li>
       </a>
       <a href="{{ site.url }}/tags">
-        <li class="btn-nav">Tags</li>
+        <li class="btn-nav">Blog Index</li>
       </a>
       <li class="current">Portfolio</li>
       {% else %}
       <!-- others -->
       <a href="{{ site.url }}">
-        <li class="current btn-nav">Blog</li>
+        <li class="current btn-nav">Home</li>
       </a>
       <a href="{{ site.url }}/tags">
-        <li class="btn-nav">Tags</li>
+        <li class="btn-nav">Blog Index</li>
       </a>
       <!-- <a href="{{ site.url }}/portfolio">
         <li class="btn-nav">Portfolio</li>
