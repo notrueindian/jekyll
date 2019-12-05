@@ -39,13 +39,13 @@ Here is a breakdown of encounters in this chapter and reasons provided:
 2. To learn about the cults, they are directed to another NPC. That NPC will only tell them this information if they protect her from some bandits.
    Reason to face the encounter: They are forced.
 3. Once they defeat the bandits, the NPC will tell them about the location of the cults. This is our first dungeon. In the dungeon, we meet a member of the Vanthampur family who the players might not kill because he's currently being assassinated by his own family. This Vanthampur reveals that his family is funding the cultists.
-   Reason: As above. They are forced.
+Reason: As above. They are forced.
 4. Another member of the Vanthampur family operates a gambling den in a permanently-docked ship (nice!). 
-   Reason: None, really. Technically, their duty is done after dispatching the cultists. Why would they fight one of the city's most powerful families?
+Reason: None, really. Technically, their duty is done after dispatching the cultists. Why would they fight one of the city's most powerful families?
 5. After the gambling den, they meet an NPC from Elturel who wants to investigate the Vanthampur villa, where the family lives, because she suspects them of being part of the conspiracy to doom her home city. She joins the party as they attack the villa - which has a dungeon in the basement with important NPCs.
-   Reason: As above. The book mentions you can skip 4 and go straight to 5. But again, all the reasons to do this involve the party members care about discovering what happened to Elturel or actually ending the cults, once and for all.
+Reason: As above. The book mentions you can skip 4 and go straight to 5. But again, all the reasons to do this involve the party members care about discovering what happened to Elturel or actually ending the cults, once and for all.
 6. At the villa, they meet an NPC who takes them to another NPC who can tell them something about what's going on. This NPC is in another town. If they go there, they learn something more about the adventure and are given the option of being sent into Avernus to save Elturel. If they say yes, they are sent to another location where they meet two NPCs, one of whom is a helper NPC who will travel with them to Avernus and becomes critical to the plot. Then, they are sent into Avernus with *no way back*.
-   Reason: Curiosity and Heroism
+Reason: Curiosity and Heroism
 
 **Starting a sandbox: all about premises**
 
