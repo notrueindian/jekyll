@@ -31,7 +31,7 @@ The second problem: *Encounters are strung together like beads in a rosary - you
 
 Now, to fix the linearity of the adventures, we'll look at it sequentially. The adventure is divided into chapters and this is the official summary of Chapter 1:
 
-`Pressed into service by the Flaming Fist, the characters seek out and destroy Dead Three cultists who are threatening Baidur's Gate. As the machinations of the Vanthampur family come to light, the characters have a chance to confront Thavius Kreeg, the architect of Elturel's downfall, before traveling to Candlekeep to unlock a mysterious puzzle box and gain safe passage to the Nine Hells.`
+>Pressed into service by the Flaming Fist, the characters seek out and destroy Dead Three cultists who are threatening Baidur's Gate. As the machinations of the Vanthampur family come to light, the characters have a chance to confront Thavius Kreeg, the architect of Elturel's downfall, before traveling to Candlekeep to unlock a mysterious puzzle box and gain safe passage to the Nine Hells.
 
 Here is a breakdown of encounters in this chapter and reasons provided:
 
