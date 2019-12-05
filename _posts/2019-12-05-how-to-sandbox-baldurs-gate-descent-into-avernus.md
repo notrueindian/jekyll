@@ -6,7 +6,6 @@ tags: [reviews,rpg-theory]
 author: notrueindian
 comments : false
 ---
-
 When *Baldur's Gate: Descent into Avernus* came out, it looked like a great adventure. Combining the red blasted landscape and post-apocalyptic aesthetics of *Mad Max: Fury Road* with the existing lore of the Nine Hells sounded awesome - Wizards of the Coast had stumbled onto something good. Then the adventure came out and ...it was disappointing. They actually nailed the aesthetics - the art work in the module was possibly their best work so far. But the storyline was headache-inducing. It was linear and railroad-y in the worst way. And as a player, I found it slightly insulting that it expected me to just forgive the lack of narrative design and just follow the big, blinking signposts that say "NEXT PART OF ADVENTURE THIS WAY!" alongside arrows that point you in the correct direction.
 
 But I still wanted to run the adventure - I liked the central hook. I liked some of the NPCs and locations. I really like the aesthetics of Avernus. I loved the idea of striking deals with devils. So I did the work of converting the game into a large sandbox and ran a game (still running, actually!) almost West Marches style - large player base, multiple characters, multiple plotlines, character-driven adventure.  Through this series of posts, I want to show you how I did that as well as generalize how to do this with other adventures.
