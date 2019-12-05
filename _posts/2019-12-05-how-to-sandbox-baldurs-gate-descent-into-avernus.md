@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Running Baldur's Gate: Descent into Avernus as a sandbox
+title: Running Baldurs Gate: Descent into Avernus as a sandbox
 subtitle : The first of a possible 10,000 word series
-tags: [reviews, rpg-theory]
+tags: [reviews,rpg-theory]
 author: notrueindian
 comments : false
 ---
