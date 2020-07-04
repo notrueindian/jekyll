@@ -1,6 +1,10 @@
+---
+layout: nicepage
+title: Parliament of Knives
+permalink: /about/
+---
 
-# Parliament of Knives
-By **Thomas Manuel** (Tea#9357)
+By **Thomas Manuel**
   
 (This is a living document. It is still a work-in-progress.
 
