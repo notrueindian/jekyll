@@ -1,6 +1,6 @@
 - project :
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://www.kickstarter.com/projects/newagendapubs/orun # Full URL
     image : "orun.webp" # path: assets/project/
     date : 2018
@@ -11,7 +11,7 @@
 
 - project :
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
     date : 2019.06.09 - Developing
