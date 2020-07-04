@@ -1,7 +1,7 @@
 ---
 layout: nicepage
 title: Parliament of Knives
-permalink: /about/
+permalink: /parliament-of-knives
 ---
 
 By **Thomas Manuel**
