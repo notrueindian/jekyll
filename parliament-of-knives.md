@@ -45,7 +45,8 @@ Note: Group messaging outside of the forum for out of character planning is a pr
 
 (For a full template for the forum, see Appendix 1.)
 
- ## Fictional World
+## Fictional World
+
 The fictional nation represented by the Grand Parliament can be the one outlined in these rules or one that is invented by the game facilitators. It can be a part of a world that is as fantastical or mundane as desired but these rules assume that the characters have access to no magic or similar powers. They have to rely on their wits, words and, occasionally, rusty knives. It is the role of the facilitators to portray a believable world that is responsive to the actions of the Grand Parliament. It is suggested that the world contains a map that can be edited easily to show geopolitical changes.
 
 The nation has six stats: Military, Art, Industry, Faith, Diplomacy, Commerce. 
@@ -54,7 +55,8 @@ The stats range from 1-8 and start at 3. Every successful proposal passed by the
 
 (For a template for designing your world and nation, see Appendix 2.)
 
- ## Characters
+## Characters
+
 The characters in this game are all politicians in a Grand Parliament.
 
 Character creation isn’t elaborate. It is as simple as choosing an archetype and answering a series of questions. The currently available playsets are:
@@ -112,6 +114,7 @@ When a party passes a proposal pertaining to their objective, all of their membe
 When characters leave a party, they lose Prestige, unless it’s a Schism. A Schism is when more than 25% of the party splits and forms a new party in which case no Prestige is lost (minimum 2 people).
 
 ## Mechanics
+
 So how does the game work?
 
 The core of the game is very simple: Characters make proposals, which are potential laws or actions that the nation should take. The members of the Grand Parliament then vote on these proposals, passing some of them and rejecting the others. But the gap between proposing something and getting it passed is where most of the game will happen. Being successful in making and passing proposals earns characters Prestige.
@@ -194,6 +197,8 @@ Eg: "The Rolan Empire has amassed soldiers on our southern border." or “A cult
 **Events**: Game facilitations will also organize Events that take place in response to the actions of the Parliament. These could be meetings with Generals who would lead wars, Foreign Diplomats from other nations, Reporters investigating malfeasance, etc. These NPCs would be played by the facilitators. If this event is in response to a stat reaching 1, then the facilitators should ensure that the event communicates its high stakes nature and a sense of urgency.
 
 **Ending the Game**: The game ends when a party maximizes the stat related to their objective or when a stat is lowered to one and the players are not able to turn it around in the next week. Either way, if the players wish to start a new game, build a new nation extrapolating from the consequences of this recently-ended game and start again.
+
+## Facilitators
 
 Last but not the least, the game also requires facilitators to perform a number of functions including:
 
