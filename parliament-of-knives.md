@@ -6,7 +6,7 @@ permalink: /parliament-of-knives
 
 By **Thomas Manuel**
 
-![parliament](www.deepweird.com/assets/panorama-2580527_1920.jpg)
+![](/assets/panorama-2580527_1920.jpg)
   
 (This is a living document. It is still a work-in-progress.
 
