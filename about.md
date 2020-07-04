@@ -12,6 +12,8 @@ My only professional credit right now is as a writer for New Agenda Publishing o
 
 But I'm always tinkering away at my own games. You can check out [Parliament of Knives](/parliament-of-knives/), my political intrigue RPG written to be played over Discord or a similar app. The entire game is available for free as markdown/HTML because this isn't a game meant to be played at a table so a PDF or print would be kind of ridiculous. Check it out! And if you like it, let me know!
 
+This blog also contains my posts for Deepfolk, which is my leftist New Weird under-the-ocean setting for RPGs.
+
 Art Credits:
 
 Octopus Icon made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
