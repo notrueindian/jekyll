@@ -1,13 +1,24 @@
 - project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/naye0ng/Grape-Theme # Full URL
+    url : https://www.kickstarter.com/projects/newagendapubs/orun # Full URL
     image : "portfolio.png" # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Grape-Theme
+    date : 2018
+    title : Writer on Orun, space opera RPG
     summary : A awesome jekyll theme!
-    description : This project is my first jekyll theme. and everyone can customize this easily.  
-    contents :
+    description : I was one of the writers for New Agenda Publication's tabletop roleplaying game, ORUN.   
+  
+
+- project :
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2019.06.09 - Developing
+    title : Dummy project
+    summary : This is Dummy
+    description :  
+       contents :
         - title : 1. 블로그 첫 화면 구성
           image : home.png
           description : <li>Responsive Layout</li>
@@ -26,13 +37,3 @@
             <li>OG Tag 추가</li>
             <li>profile 이미지 효과</li>
             <li>gem 배포</li> 
-
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Dummy project
-    summary : This is Dummy
-    description :  
