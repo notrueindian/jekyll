@@ -2,7 +2,7 @@
 layout: post
 title: Fractal Worldbuilding
 subtitle: first of many DeepWeird setting posts
-tags: [worldbuilding]
+tags: [deepfolk]
 author: notrueindian
 comments : false
 ---
