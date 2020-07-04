@@ -2,7 +2,7 @@
 layout: post
 title: How do upsiders go deepside?
 subtitle : Fractal Worldbuilding 2
-tags: [worldbuilding]
+tags: [deepfolk]
 author: notrueindian
 comments : false
 ---
