@@ -3,7 +3,7 @@ layout: nicepage
 title: About
 permalink: /about/
 ---
-<div>
+
 Hi, I'm Thomas and Deep Weird is where I talk about playing and designing games. If you want to reach me, message me on twitter [@chaibypost](www.twitter.com/chaibypost) or drop me an email notrueindian at outlook.com
   
 I came to games in a weird way - through the Malazan Book of the Fallen series by Steven Erikson which began as a 8 year long AD&D/GURPS campaign. People talk about the different kinds of RPG designers and yes, I'm the failed novelist. I mostly play games over text - because roleplaying through writing allows me to indulge both my primary interests. I currently moderate the r/pbp (pbp = play-by-post) subreddit which has around 4000 members as of July 2020, all of them playing games over text for various reasons. 
@@ -15,4 +15,3 @@ But I'm always tinkering away at my own games. You can check out [Parliament of 
 Art Credits:
 
 Octopus Icon made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-</div>
