@@ -74,7 +74,7 @@ Questions:
 2.  What is your position within the noble house? Are you the head of the house or a young scion? Are you well-liked?
 3.  What is your house’s best kept secret?
 
-**The Rascal**  
+**The Rascal**
 <img src="/assets/img/rascal.png#floatright" style="width:23%;">  
 The Rascal has reached their current position through wheeling and dealing. They start with 2 Prestige. Once a week, they can ask to know how one character voted in the previous week.
 
@@ -83,7 +83,8 @@ Questions:
 2.  What is the most outrageous trick you pulled off to achieve power?
 3.  What mistake do you regret the most?
 
-**The Soldier**  
+
+**The Soldier**
 <img src="/assets/img/soldier.png#floatright" style="width:23%;">  
 The Soldier is a former leader of the armed forces of the nation. They start with 2 Prestige. The cost to murderize them is higher by 2.
 
@@ -92,14 +93,13 @@ Questions:
 2.  What was your noblest deed in battle?
 3.  What circumstances turned you into a political leader?
 
-**The Dreamer**  
+**The Dreamer**
 <img src="/assets/img/dreamer.png#floatright" style="width:23%;">  
-The Dreamer is an artist, poet or philosopher. They start with 2 Prestige. They get half-Prestige from voting but cannot be murderized or challenged to duels unless they choose. For voting, their prestige is rounded down. 
+The Dreamer is an artist, poet or philosopher. They start with 2 Prestige. They get half-Prestige from voting but cannot be murderized or challenged to duels unless they choose. For voting, their prestige is rounded down.
 
 (Note: If a player might not be comfortable with their character dying, this is the archetype they should choose.)
 
 Questions:
-
 1.  What are you famous for?
 2.  Which has gotten you into the most trouble with the government or the people?
 3.  What is your favourite topic of conversation?
