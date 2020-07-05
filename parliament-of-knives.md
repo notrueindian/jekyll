@@ -63,21 +63,25 @@ The characters in this game are all politicians in a Grand Parliament.
 
 Character creation isn’t elaborate. It is as simple as choosing an archetype and answering a series of questions. The currently available playsets are:
 
-**The Noble**  
+**The Noble** ![](/assets/img/noble.png# pokclass floatright)
 The Noble is a member of a powerful and aristocratic house. They start with 3 Prestige.
 
 Questions:
 1.  What is your noble house most famous for?
 2.  What is your position within the noble house? Are you the head of the house or a young scion? Are you well-liked?
- 3.  What is your house’s best kept secret?
+3.  What is your house’s best kept secret?
 
-**The Rascal**  
+<div class="pokcontainer">
+<div class="pokcontainer_text">**The Rascal**  
 The Rascal has reached their current position through wheeling and dealing. They start with 2 Prestige. Once a week, they can ask to know how one character voted in the previous week.
 
 Questions:
 1.  What were the origins of your birth?
 2.  What is the most outrageous trick you pulled off to achieve power?
 3.  What mistake do you regret the most?
+</div>
+<img class="pokcontainer_image" src="/assets/img/rascal.png">
+</div>
 
 **The Soldier**  
 The Soldier is a former leader of the armed forces of the nation. They start with 2 Prestige. The cost to murderize them is higher by 2.
