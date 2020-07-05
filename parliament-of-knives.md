@@ -75,7 +75,7 @@ Questions:
 3.  What is your house’s best kept secret?
 
 **The Rascal**
-<img src="/assets/img/rascal.png#floatright" style="width:23%;">  
+<img src="/assets/img/rascal.png#floatleft" style="width:23%;">  
 The Rascal has reached their current position through wheeling and dealing. They start with 2 Prestige. Once a week, they can ask to know how one character voted in the previous week.
 
 Questions:
@@ -94,7 +94,7 @@ Questions:
 3.  What circumstances turned you into a political leader?
 
 **The Dreamer**
-<img src="/assets/img/dreamer.png#floatright" style="width:23%;">  
+<img src="/assets/img/dreamer.png#floatleft" style="width:23%;">  
 The Dreamer is an artist, poet or philosopher. They start with 2 Prestige. They get half-Prestige from voting but cannot be murderized or challenged to duels unless they choose. For voting, their prestige is rounded down.
 
 (Note: If a player might not be comfortable with their character dying, this is the archetype they should choose.)
