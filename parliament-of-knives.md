@@ -17,6 +17,8 @@ By **Thomas Manuel**
 
 This currently version 1.1 and is the most updated version available on the internet.)
 
+![](/assets/img/catsanddogs.jpg#floatcentre)
+
 
 ## Introduction
 
