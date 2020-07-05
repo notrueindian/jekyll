@@ -66,7 +66,7 @@ The characters in this game are all politicians in a Grand Parliament.
 Character creation isn’t elaborate. It is as simple as choosing an archetype and answering a series of questions. The currently available playsets are:
 
 **The Noble**
-<img src="/assets/img/noble.png#floatright" width="23%">  
+<img src="/assets/img/noble.png#floatright" style="width:23%;">  
 The Noble is a member of a powerful and aristocratic house. They start with 3 Prestige.
 
 Questions:
