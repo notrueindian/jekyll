@@ -147,21 +147,6 @@ a:link, a:visited, a:active, a:hover {
 		color : #fff;
 	}
 }
-img[src$="floatright"] {
-  float:right;
-}
-
-img[src$="floatleft"] {
-  float:left;
-}
-
-img[src$="floatcentre"] {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin: auto;
-    float: none!important;
-}
 #error404{
 	@extend %page-padding;
 	margin-top : 200px;
