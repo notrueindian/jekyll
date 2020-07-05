@@ -147,15 +147,28 @@ a:link, a:visited, a:active, a:hover {
 		color : #fff;
 	}
 }
-img[alt$=">"] {
+pokcontainer {
+    &__image {
+        display: inline-block;
+        vertical-align: top;
+        width: 46%;
+        margin: 20px 30px 0 0;
+    }
+    &__text {
+        display: inline-block;
+        width: 46%;
+        }
+    }
+}
+img[src~="floatright"] {
   float:right;
 }
 
-img[alt$="<"] {
+img[src~="floatleft"] {
   float:left;
 }
 
-img[alt$="<>"] {
+img[src~="floatcentre"] {
     display: block;
     max-width: 100%;
     height: auto;
