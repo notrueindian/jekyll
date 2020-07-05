@@ -17,9 +17,6 @@ By **Thomas Manuel**
 
 This currently version 1.1 and is the most updated version available on the internet.)
 
-![](/assets/img/catsanddogs.jpg#floatcentre)
-
-
 ## Introduction
 
 Parliament of Knives is a text-based roleplaying game of political intrigue that pits players against each other to see who can exert the most influence on the fate of a nation. The characters are all politicians in a Grand Parliament in one nation of a fantastical world making and voting on proposals in a bid to further their secret objectives. They form factions, leave factions, make deals, break deals, and even kill or be killed in their pursuit of getting the necessary votes they need to further their plans.
@@ -123,6 +120,8 @@ Example: “Proposal: Make Necromancy Legal [Aim: Increase Industry, Decrease Re
 Note: It is up to the player to have their character justify the out of character choice of stats through roleplay in-character. In this example, they might do so by declaring that the interdiction against necromancy is religious but if we legalize the act, the undead can be made to work in factories.
 
 (For a list of sample proposals, see Appendix 3.)
+
+![](/assets/img/catsanddogs.jpg)
 
 **Prestige**: Prestige is a double-edged sword. In many ways, it is the measure of your success and power. The higher your prestige, the more your vote matters. But becoming too successful or powerful has a downside. You open yourself to jealous conspiracies. Once a character has reached Prestige 6, they become potential targets for MurderizingTM and Duels of Honour, which are ways of losing prestige and potentially your character.
  
