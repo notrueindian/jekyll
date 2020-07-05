@@ -151,11 +151,11 @@ img[src$="floatright"] {
   float:right;
 }
 
-img[src~="floatleft"] {
+img[src$="floatleft"] {
   float:left;
 }
 
-img[src*="floatcentre"] {
+img[src$="floatcentre"] {
     display: block;
     max-width: 100%;
     height: auto;
