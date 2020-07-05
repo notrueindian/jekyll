@@ -74,6 +74,11 @@ Questions:
 2.  What is your position within the noble house? Are you the head of the house or a young scion? Are you well-liked?
 3.  What is your house’s best kept secret?
 
+| The Rascal                                                   |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| The Rascal has reached their current position through wheeling and dealing. They start with 2 Prestige. Once a week, they can ask to know how one character voted in the previous week.<br /><br />Questions:<br />What were the origins of your birth? <br />What is the most outrageous trick you pulled off to achieve power? <br />What mistake do you regret the most? | <img src="/assets/img/rascal.png" style="width:23%;">|
+
+
 **The Rascal**
 <img src="/assets/img/rascal.png#floatleft" style="width:23%;">  
 The Rascal has reached their current position through wheeling and dealing. They start with 2 Prestige. Once a week, they can ask to know how one character voted in the previous week.
