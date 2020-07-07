@@ -8,14 +8,16 @@ By **Thomas Manuel**
 
 ![](/assets/panorama-2580527_1920.jpg)
   
-(This is a living document. It is still a work-in-progress.
+(This is a living document. The game is still a work-in-progress.
+
+Current To Do List:
 
  - [ ] A concrete Example of Play
  - [ ] More fleshed out Facilitator section
  - [ ] Switching goals/objectives from parties to players
  - [ ] Adding a soft murderizing option in the form of Blackmail
 
-This currently version 1.1 and is the most updated version available on the internet.)
+This currently version 0.6 and is the most updated version available on the internet.)
 
 ## Introduction
 
