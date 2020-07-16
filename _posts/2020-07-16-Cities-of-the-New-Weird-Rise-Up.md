@@ -219,4 +219,4 @@ This is pretty basic stuff, just flavoured well.
 
 I really like this table. Feels like China Mieville's stuff. Very gonzo, very New Weird, very SWORDDREAM!
 
-If you liked any of this, do check out the PDF on itch.io where you can tip me for it by buying it. (It's the same thing that's here.) Or comment on the itch page or just tweet at me @chaibypost. That would be awesome too! 
+If you liked any of this, do check out [the PDF](https://notrueindian.itch.io/cities-of-the-new-weird-rise-up) on itch.io where you can tip me for it by buying it. (It's the same thing that's here.) Or comment on the itch page or just tweet at me @[chaibypost](https://twitter.com/chaibypost). That would be awesome too! 
