@@ -10,9 +10,9 @@ I came to games in a weird way - through the Malazan Book of the Fallen series b
 
 My only professional credit right now is as a writer for New Agenda Publishing on Orun: Post Apotheosis, Afro-Inspired, Space Opera RPG, which was [kickstarted](https://www.kickstarter.com/projects/newagendapubs/orun) in 2018. I've also been a sensitivity reader and done some minor layout work.
 
-But I'm always tinkering away at my own games. You can check out [Parliament of Knives](/parliament-of-knives/), my political intrigue RPG written to be played over Discord or a similar app. The entire game is available for free as markdown/HTML because this isn't a game meant to be played at a table so a PDF or print would be kind of ridiculous. Check it out! And if you like it, let me know!
+But I'm always tinkering away at my own games. Check out [my Itch store](https://notrueindian.itch.io/). My current work-in-progress is [Parliament of Knives](/parliament-of-knives/), my political intrigue RPG written to be played over Discord or a similar app. The entire game is available for free as markdown/HTML because this isn't a game meant to be played at a table so a PDF or print would be kind of ridiculous. Check it out! And if you like it, let me know!
 
-This blog also contains my posts for Deepfolk, which is my leftist New Weird under-the-ocean setting for RPGs.
+This blog also contains my posts for Deepfolk, which is my leftist New Weird under-the-ocean setting for RPGs. It's in very early stages.
 
 Art Credits:
 
