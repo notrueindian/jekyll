@@ -6,6 +6,8 @@ tags: [deepfolk]
 author: notrueindian
 comments : false
 ---
+![](/assets/img/umanath.jpg)
+
 Fools believe that underwater they are safe from fire but that is far from true. The hottest flame in the world lives under the sea. It does not look like fire for it has no tongues. It bears only the faintest flash of light, so fleeting that it’s invisible to most creatures. But it does not lack in heat - it burns almost as fiercely as the surface of the sun. This flame is wielded by only one type of creature - what is called alpheus in the West and umanath in the East.
 
 
