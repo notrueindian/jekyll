@@ -17,6 +17,7 @@ Current To Do List:
  - [ ] More fleshed out Facilitator section
  - [ ] Switching focus from Party-based play to Individuals by changing who has Goals
  - [x] Add Conspiracies
+ - [ ] Nation Template / Essentials Truth
 
 This currently version 0.7 and is the most updated version available on the internet.)
 
