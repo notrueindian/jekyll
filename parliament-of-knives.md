@@ -14,10 +14,9 @@ By **Thomas Manuel**
 Current To Do List:
 
  - [ ] A concrete Example of Play
- - [ ] More fleshed out Facilitator section
- - [ ] Switching focus from Party-based play to Individuals by changing who has Goals
+ - [x] More fleshed out Facilitator section
  - [x] Add Conspiracies
- - [ ] Nation Template / Essentials Truth
+ - [x] Nation Template / Essentials Truth
 
 This currently version 0.7 and is the most updated version available on the internet.)
 
@@ -84,11 +83,9 @@ Character creation isn’t elaborate. It is as simple as choosing an archetype a
 
 
 
-
-
 ## Parties
 
-This game cannot be won alone. Characters will need to form parties. Parties are volatile alliances for a common cause. Within parties, players can figure out proposals and strategies. The Party creation process is simple. Parties need a logo, a manifesto and objective. A manifesto can take any form but should contain a number of lies and truths about the party’s objective.
+This game cannot be won alone. Characters will need to form parties. Parties are volatile alliances for a common cause. Within parties, players can figure out proposals and strategies. The Party creation process is simple. They just need a name, a logo and an objective.
 
 A party’s objective is usually one of the following and they map onto the nation’s stats:
 
@@ -99,7 +96,7 @@ A party’s objective is usually one of the following and they map onto the nati
 5.  Become a World Leader through Peace and Goodwill (Diplomacy)
 6.  Become the Economic Superpower (Commerce)
 
-When a party passes a proposal pertaining to their objective, all of their members earn Prestige. When a party raises the stat that matches their objective to their maximum value, they win the game. Multiple parties can share the same objective.
+When a party raises the stat that matches their objective to their maximum value, they win the game. Multiple parties can share the same objective. 
 
 When characters leave a party, they lose Prestige, unless it’s a Schism. A Schism is when more than 25% of the party splits and forms a new party in which case no Prestige is lost (minimum 2 people).
 
@@ -107,18 +104,21 @@ When characters leave a party, they lose Prestige, unless it’s a Schism. A Sch
 
 So how does the game work?
 
-The core of the game is very simple: Characters make proposals, which are potential laws or actions that the nation should take. The members of the Grand Parliament then vote on these proposals, passing some of them and rejecting the others. But the gap between proposing something and getting it passed is where most of the game will happen. Being successful in making and passing proposals earns characters Prestige.
+The core of the game is very simple: 
 
-The game is played more or less in real time. Every round of the game takes place over one week. A week / round should look like this:
+1. Characters make proposals, which are potential laws or actions that the nation should take. 
+2. The members of the Grand Parliament then vote on these proposals, passing some of them and rejecting the others. But the gap between proposing something and getting it passed is where most of the game will happen. In this gap, players will form alliances to aid their plans  or start conspiracies to tear down the plans of others.
+3. Being successful in making and passing proposals earns characters Prestige. Prestige makes it easier for them to pass future proposals.
 
-Day 1: Members declare Proposals.
-Day 2-5: Voting opens. Members speechify, scheme, ally, lie to get other Members to vote on what they want.
-Day 6: Voting closes. Successful proposals are declared. Prestige is announced, if applicable.
-Day 7: News is announced.
+Every round of the game takes place over one week. One IRL week can be treated as one "in-game" month.  A week / round should look like this:
+
+Day 1-3: Members declare Proposals.
+Day 4-6: Voting opens. Members speechify, scheme, ally, lie to get other Members to vote on what they want.
+Day 7: Voting closes. Successful proposals are declared. Prestige is announced, if applicable. News is announced.
 
 ### Proposals
 
-There are two main kinds of proposals: Policy Proposals and Special Proposals.
+There are two main kinds of proposals: Standard Proposals and Special Proposals.
 
 **Standard Proposals**
 
@@ -126,11 +126,13 @@ Any member can make a Standard Proposal. The aim of a Standard Proposal is to ea
 
 When making a proposal, a character declares the title of the proposal and explains their reasons behind proposing it. They also declare which stat they want the proposal to raise and which stat they want to lower.
 
-Example: “Proposal: Make Necromancy Legal [Aim: Increase Industry, Decrease Religion]”
+Example: *“Proposal: Make Necromancy Legal [Aim: Increase Industry, Decrease Religion]”*
 
 Note: It is up to the player to have their character justify the out of character choice of stats through roleplay in-character. In this example, they might do so by declaring that the interdiction against necromancy is religious but if we legalize the act, the undead can be made to work in factories.
 
-Note: Two characters from different parties can come together to make a Joint Proposal. Joint Proposals are the same as Standard Proposals except they target two stats to increase and two stats to decrease. (They cannot increase or decrease the same stat twice. It has to name four stats.)
+Note: Two characters from different parties can come together to make a **Joint Proposal**. Joint Proposals are the same as Standard Proposals except they target two stats to increase and two stats to decrease. (They cannot increase or decrease the same stat twice. It has to name four stats.) Joint Proposals still only give Prestige to one person for proposing them.
+
+Once a Standard proposal is made, it needs at least two other characters to respond with a :thumbsup: emoji for the proposal to make it to the voting form.
 
 **Special Proposals** 
 
@@ -146,15 +148,27 @@ How do proposals affect the nation’s stats? Every proposal declares which stat
 
 ![](/assets/img/catsanddogs.jpg)
 
-**Voting**: Votes are private and cast via an external form where only the facilitators can see the result. Once cast, they cannot be taken back. 
+### Voting
 
-Every character only gets one vote. But their vote increases in value with their Prestige. A person with Prestige 10 is worth the same as 10 people with Prestige 1.
+Every week, characters vote on proposals, trying to pass the ones that benefit their party goals and earn them Prestige. Votes are private and cast via an external form where only the facilitators can see the result. Once cast, they cannot be taken back. 
 
-Example, someone proposes that “All healthcare should be free”. After voting, the votes for the proposals are 25 people of Prestige 1, 3 people of Prestige 2, 1 person of Prestige 3, and 1 person of Prestige 4. Therefore, the “total vote” on this proposal is: 25x1+3x2+1x3+1x4 = 25+6+3+4 = 38.  
+Prestige decides how many proposals a character can vote on and how much value their vote has. Yes, voting is not one character one vote. It is one prestige one vote. A character with 10 Prestige has 10 times the voting power of a character with 1 Prestige. 
 
-The proposals with the two highest total votes at the end of the week are accepted. 
+Characters can divide their Prestige among different proposals. A character with 10 Prestige can use 5 Prestige on one proposal and another 5 Prestige on another proposal. This can be done in any combination.
 
-**Prestige**: Prestige is a double-edged sword. In many ways, it is the measure of your success and power. The higher your prestige, the more your vote matters. But becoming too successful or powerful has a downside. You open yourself to jealous conspiracies. Once a character has reached Prestige 6, they become potential targets for Conspiracies.
+Example:
+
+> There are three proposals - A, B, C. Barnabus, a Noble, has 9 Prestige. He can vote with all 9 Prestige behind Proposal A. Or he can vote 3 Prestige among all three of them. Or he can put 6 Prestige behind A and 3 Prestige behind C. Whatever combination suits his plan.
+
+The proposals with the two highest total votes (i.e. total prestige) at the end of the week are accepted. 
+
+Example:
+
+> Barnabus has proposed that “All healthcare should be free”. After voting, the votes for the proposals are 25 people of Prestige 1, 3 people of Prestige 2, 1 person of Prestige 3, and 1 person of Prestige 4. Therefore, the “total vote” on this proposal is: 25x1+3x2+1x3+1x4 = 25+6+3+4 = 38.  If this one of the two highest voted proposals, it is passed!
+
+### Prestige
+
+Prestige is a double-edged sword. In many ways, it is the measure of your success and power. The higher your prestige, the more your vote matters. But becoming too successful or powerful has a downside. You open yourself to jealous conspiracies. Once a character has reached Prestige 6, they become potential targets for Conspiracies.
 
 Characters earn Prestige when:
 
@@ -209,13 +223,23 @@ Here’s an example duel:
 
 Note: If using the Sidekick bot on Discord, you can use a command like “/r xd6>3” to roll and count Hits at once, where 'x' is the number of dice.
 
-**News**: Every week, after the results of the vote are announced. Game facilitators will post a series of updates in the “News” channel.
+### News
 
-Eg: "The Rolan Empire has amassed soldiers on our southern border." or “A cult of devil worshippers has taken root in our Capitol.”
+Every week, after the results of the vote are announced. Game facilitators will post a series of updates in the “News” channel. These take two forms. One is a report on the proposals and how they affected the stats that week. 
+
+Example:
+
+> "Immigration and Utilization of Necromancers" introduced by member Obram has been implemented but while the intended goal was to boost the  industrial output of the nation that hasn't happened. While necromancers have been entering the nation, people have stopped patronizing  businesses that employ them. This has been a hit to the commercial base  of our economy. 
+
+The News could also maintain smaller tidbits or hooks for players to use in their roleplay. These provide opportunities for players to use these details when making proposals.
+
+Example:
+
+> "The Rolan Empire has amassed soldiers on our southern border." or “A cult of devil worshippers has taken root in our Capitol.”
 
 ### Ending the Game
 
-The game ends when a party maximizes the stat related to their objective or when a stat is lowered to one and the players are not able to turn it around in the next week. Either way, if the players wish to start a new game, build a new nation extrapolating from the consequences of this recently-ended game and start again.
+The game ends when a party maximizes the stat related to their objective or when a stat is lowered to one and the players are not able to turn it around in the next week. 
 
 ## Facilitators
 
@@ -227,50 +251,44 @@ Here is the beginning of some Principles of Play that facilitators can share wit
 
 >Principles of Play
 >
->Parliament of Knives is a team-based game of social alliances and deceptions. The characters try to gain Prestige and earn a victory by fulfilling their party's objective. While they do this, they try to ensure the country doesn't collapse - because if that happens, everyone loses.
+>Social Game: Parliament of Knives is a team-based game of social alliances and deceptions. The characters try to gain Prestige and earn a victory by fulfilling their party's objective. While they do this, they try to ensure the country doesn't collapse - because if that happens, everyone loses.
 >
->Though this game encourages you to be a sneaky character, the OOC channels are snark-free zones. They're channels for friendliness and warmth among players. Your characters might not be friends, but you all should be! So to ensure this, you're asked to refrain from mean jokes, heavy sarcasm or sniping in the OOC channels.
+>Keep OOC friendly: Though this game encourages you to be a sneaky character, the OOC channels are snark-free zones. They're channels for friendliness and warmth among players. Your characters might not be friends, but you all should be! So to ensure this, you're asked to refrain from mean jokes, heavy sarcasm or sniping in the OOC channels.
 >
->The lore of the world is limited. We have the Essential Truths and the information channels. Characters are free to invent details of the world as they play but all of these are details are liable to be overruled by the facilitators. If you're doubtful of a detail invented by you or another character, ask a facilitator.
+>Lore has to be confirmed: The lore of the world is limited. We have the Basic Truths and the information channels. Characters are free to invent details of the world as they play but all of these are details are liable to be overruled by the facilitators. If you're doubtful of a detail invented by you or another character, ask a facilitator.
 
 You can add or change these as per the needs of your game!
 
-**Track Votes and Prestige**: Facilitators need to handle the backend of votes, proposals and prestige. They need to calculate which proposals have been passed and make sure an accurate tally of prestige is maintained.
+**Track Votes and Prestige**: Facilitators need to handle the backend work of votes, proposals and prestige. This includes setting up voting forms every week, calculating which proposals have been passed and maintaining an accurate tally of Prestige.
 
-**Bring the world to life**: The world responds to the actions of the council. Facilitators communicate this through the News, which are text updates that can be delivered through an NPC or just narrated as a report. The game facilitators decide how the world will respond to the events of the Parliament and how that response should manifest. 
-
- (This probably needs to be fleshed out more.)
+**Simulate  Responsive World**: The world responds to the actions of the council. Facilitators communicate this through the News, which are text updates that can be delivered through an NPC or just narrated as a report. The game facilitators decide how the world will respond to the events of the Parliament and how that response should manifest. Facilitators should ensure that in their portrayal of a dynamic world, they don't overshadow the actions of the players or make their choices feel meaningless.
 
 ## Appendices
 
 ### Appendix 1: Forum / Chat Server Template
 
 -   Server
-
--   Rules
-        
+    -   Rules
     -   Announcements
 
     -   Admin Log
 -   General
-
--   Welcome
+    -   Welcome
     -   Game Talk
     -   Offtopic Talk
     -   Questions
     -   Recruitment
+-   Character and Party Info
+    -   Character Biographies ( with Portraits)
     -   Party Info
 -   Information
     -   News
--   Active Proposals
-
+    -   Active Proposals
     -   Nation Stats
+    -   Prestige Rankings
 -   Grand Parliament
-
--   Entrance Hall
-        
+    -   Entrance Hall
     -   Courtyard
-
     -   West Corridor
 
     -   East Corridor
@@ -281,25 +299,40 @@ You can add or change these as per the needs of your game!
 
     -   Duelling Court
 -   Central Chamber
-
--   Main Podium
-        
+    -   Main Podium
     -   Front Benches
 
     -   Middle Benches
 
     -   Back Benches
 -   Private Channels
-    -   
+    -   Meeting Room 1
+    -   ...
 -   Party Channels
     -   party-1-ooc
--   party-2-ooc
+    -   party-2-ooc
     -   ...
 -   Event Channels
 
   
 
-### Appendix 2: Nation Template
+### Appendix 2: Sample Nations
+
+The Kingdom of Bysmia: Surrounded by other nation, Bysmia lies at the heart of the world of Thurranir. It's a land of harsh winters and fleeting summers. In the mountains, the mines churn out the legendary Bysmian Black Iron. After discontent against the King simmered for years, the nobles of Bysmia stoked up a rebellion that burned across the land. They used the opportunity to depose the king and institute a parliament - supposedly to represent the people, but in actual fact, the parliament is mostly full of nobles trying to enact their own personal glories. 
+
+Basic Truths
+
+1. Thurranir is a fantasy world inspired by traditional European/Tolkienesque fantasy. The world is a magical place but almost all regular people are mundane.
+2. Bysmia is cold, hard land - a bit like the stereotypes of Russia. 
+3. This is one of the first, if not the first, parliament. This type of government is new to everyone.
+
+The Banquo Federation: Among the stars, the people of the planet Banquo have set aside their differences and formed a worldwide government in the face of inter-planetary conflict. Banquo is a diverse planet with varied biomes and cultures. Banquo sits at the edge of one galaxy and another and operates as an important trade hub for rare materials and technologies going back and forth. But there are strange rumours of something dark that has been swallowing up ships not too far from Banquo.
+
+Basic Truths
+
+1. Banquo is a sci-fi setting with Star Trek levels of technology.
+2. There are all kinds of peoples and cultures on Banquo - but everyone is basically human.
+3. A strange threat looms in the distance.
 
 
 
