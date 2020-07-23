@@ -47,7 +47,7 @@ Public channels are spaces like the central chamber of the parliament, the corri
 
 Note: Group messaging outside of the forum for out of character planning is a practice that is contra to the spirit of the game. If any player needs a channel accessible to only a specific group of players, the facilitators should create the channel for them as soon as they can.
 
-(For a full template for the forum, see Appendix 1.)
+(For a full template for the forum, see [Appendix 1](#appendix-1).)
 
 ## Fictional World
 
@@ -57,7 +57,7 @@ The nation has six stats: Military, Art, Industry, Faith, Diplomacy, Commerce.
 
 The stats range from 1-8 and start at 3. Every successful proposal passed by the parliament influences these stats - by increasing or lowering one or both. If any stat falls to 1, it triggers a Major Event which if not handled appropriately through roleplay and proposals, the game ends.
 
-(For two example nations, see Appendix 2.)
+(For two example nations, see [Appendix 2](#appendix-2).)
 
 ## Characters
 
@@ -144,7 +144,7 @@ At least 75% of people who voted on the previous week's proposals have to vote f
 
 How do proposals affect the nation’s stats? Every proposal declares which stat the character intends to raise and which it intends to lower. For every successful proposal, the facilitators roll a d8 and compare it to the two stats mentioned in the proposal. If the number on the dice is greater than the stat to be raised, then the intended stat increases by 1. If the number on the dice is less than or equal to the stat to be lowered, then that stat is reduced by 1.
 
-(For a list of sample proposals, see Appendix 3.)
+(For a list of sample proposals, see [Appendix 3](#appendix-3).)
 
 ![](/assets/img/catsanddogs.jpg)
 
