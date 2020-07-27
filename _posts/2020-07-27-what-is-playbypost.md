@@ -1,11 +1,11 @@
-```
+---
 layout: post
 title: What is play-by-post and how different is it from other forms of playing TTRPGs?
 subtitle : some game design explorations
 tags: [design]
 author: notrueindian
 comments : false
-```
+---
 
 Now, you probably have some idea of what play-by-post (PBP) means and definitions remain the last refuge of those with too much time on their hands so we'll take a shortcut. If you really need to start at zero, why not look at the [wikipedia page](https://en.wikipedia.org/wiki/Play-by-post_role-playing_game)? For our purposes, PBP just means playing a tabletop roleplaying game over text.  
 
