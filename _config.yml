@@ -17,7 +17,7 @@
 #email: notrueindian@outlook.com
 description: a blog about tabletop roleplaying games including OSR and indie RPGs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://deepweird.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://deep-weird.onrender.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:year/:month/:day/:title
 
 # Blog Settings
