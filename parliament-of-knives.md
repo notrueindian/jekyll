@@ -348,6 +348,10 @@ Tax Diamonds (Raise Commerce, Lower Diplomacy)
 
 Trade Coal with [Other Nation] (Raise Diplomacy, Lower Industry)
 
+## Credits
+
+I'd like to thank
+
   
 
 ## License:  
